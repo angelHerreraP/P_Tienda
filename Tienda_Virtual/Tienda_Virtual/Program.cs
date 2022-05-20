@@ -33,7 +33,6 @@ namespace Tienda_Virtual
             do
             {
             toTop:
-                Console.WriteLine("Hice este cambio");
                 Console.WriteLine("Would you like to see our Menu?");
                 Console.WriteLine("a)Yes"  + "  b)No " +  " c)Exit");
                 string showMenu = Console.ReadLine();
