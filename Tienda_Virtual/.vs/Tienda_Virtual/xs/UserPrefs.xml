@@ -3,7 +3,7 @@
     <Files>
       <File FileName="Tienda_Virtual/Convert_To_Lower.cs" Line="4" Column="18" />
       <File FileName="Tienda_Virtual/Menu.cs" />
-      <File FileName="Tienda_Virtual/Program.cs" Line="16" Column="23" />
+      <File FileName="Tienda_Virtual/Program.cs" Line="11" Column="30" />
       <File FileName="Tienda_Virtual/BuyingProcess.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
