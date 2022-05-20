@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{30904722-0A33-44C2-AD6A-3BCEC563D2AE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Tienda_Virtual/Program.cs">
+    <Files>
+      <File FileName="Tienda_Virtual/Convert_To_Lower.cs" Line="4" Column="18" />
+      <File FileName="Tienda_Virtual/Menu.cs" />
+      <File FileName="Tienda_Virtual/Program.cs" Line="16" Column="23" />
+      <File FileName="Tienda_Virtual/BuyingProcess.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tienda__Virtual PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

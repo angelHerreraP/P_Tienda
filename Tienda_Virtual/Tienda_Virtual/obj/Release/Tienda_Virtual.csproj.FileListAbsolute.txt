@@ -1,0 +1,1 @@
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/obj/Release/Tienda_Virtual.csproj.CoreCompileInputs.cache

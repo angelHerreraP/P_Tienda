@@ -1,0 +1,6 @@
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/bin/Debug/Tienda_Virtual.exe
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/bin/Debug/Tienda_Virtual.pdb
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/obj/Debug/Tienda_Virtual.csproj.AssemblyReference.cache
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/obj/Debug/Tienda_Virtual.csproj.CoreCompileInputs.cache
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/obj/Debug/Tienda_Virtual.exe
+/Users/angelh/Projects/Tienda_Virtual/Tienda_Virtual/obj/Debug/Tienda_Virtual.pdb
